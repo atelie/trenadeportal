@@ -1,0 +1,160 @@
+.wrap {
+ 	padding-left: 280px;
+}
+
+.submenu .listaDiss{
+	margin-top: 80%;
+}
+
+.sidebar {
+ 	padding-left: -300px;
+}
+
+.menu {
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color:#3cad56;
+	width: 70px;
+	padding-left: -100px;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+.menu li a.icon-estudo {
+	background: url("../img/icon-estudo.png") no-repeat;
+	width: 33px;
+	height: 35px;
+	display: block;
+	text-indent: -9000000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}
+
+.menu li a.icon-simulado {
+	background: url("../img/icon-simulado.png") no-repeat;
+	width: 33px;
+	height: 35px;
+	display: block;
+	text-indent: -9000000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+}
+
+.menu li a.icon-alternativas {
+	background: url("../img/icon-alternativas.png") no-repeat;
+	width: 33px;
+	height: 30px;
+	display: block;
+	text-indent: -9000000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+
+}
+
+.menu li a.icon-dissertativas {
+	background: url("../img/icon-dissertativas.png") no-repeat;
+	width: 33px;
+	height: 35px;
+	display: block;
+	text-indent: -9000000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+}
+
+.menu #icon-logout {
+	background: url("../img/icon-logout.png") no-repeat;
+	width: 48px;
+	height: 48px;
+	display: block;
+	text-indent: -9000000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 400px;
+}
+
+.menu #icon-trenade {
+	background: url("../img/logo-trenade.png") no-repeat;
+	width: 48px;
+	height: 48px;
+	display: block;
+	text-indent: -9000000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40%;
+}
+
+.submenu {
+	padding-top: 30px;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color:#e0e2e4;
+	width: 200px;
+	margin-left: 70px;
+	display: none;
+}
+
+.submenu .titulo {
+	font-weight: bold;
+}
+
+.submenu .lista {
+	margin-top: 52%;
+}
+
+
+.content {
+	padding-top: 10px;
+	width: 100%;
+	height: 100%;
+}
+
+.content .icon-conteudo{
+	background: url("../img/icon-conteudo.png") no-repeat;
+	width: 256px;
+	height: 256px;
+	display: block;
+	text-indent: -9000000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15%;
+}
+
+.content{
+	/*text-align: center;*/
+}
+
+#category_id{
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.input textarea{
+	height: 130px;
+	width: 650px;
+}
+
+#question_text{
+	height: 200px;
+}
+
+#files{
+		margin-top: 20px;
+		margin-bottom: 10px;		
+	}
+
