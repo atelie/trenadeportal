@@ -55,7 +55,7 @@ class AppController extends Controller {
         'users' => array('logout' => true, 'index' => true, 'add_student' => true, 'add_teacher' => true, 'change_pass' => true, 'performance' => true, 'student_performance' => true),
         'alt_questions' => array('index' => true,'add' => true,'edit' => true,'delete' => true),
         'text_questions' => array('index' => true,'view' => true,'add' => true,'edit' => true,'delete' => true),
-        'courses' => array('index' => true, 'add' => true),
+        'courses' => array('index' => true, 'add' => true, 'delete' => true),
         'categories' => array('index' => true, 'add' => true),
         'answers' => array('index' => true, 'add' => true),
         'exams' => array('number' => true, 'count' => true)
